@@ -15,7 +15,7 @@ import java.util.StringTokenizer;
  public class Server {
 	private final int iServerPort = 9131;
     private final int iEmuPort = 9130;
-
+//kslfdjaoksjdfkljl
 	private final String sEmuIp = "127.0.0.1"; // localhost
     private ServerSocket serverSocket = null;
     private  Socket outSocket = null,
